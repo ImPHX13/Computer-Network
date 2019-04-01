@@ -11,8 +11,8 @@ import threading
 import os
 global ipc 
 global ipr
-ipc='192.168.43.89'  #enter IP of other laptop
-ipr='192.168.43.251' #enter IP of this laptop
+ipc=' '  #enter IP of other laptop
+ipr=' ' #enter IP of this laptop
 global change
 change=0
 global stt
